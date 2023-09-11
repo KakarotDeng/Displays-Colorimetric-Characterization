@@ -14,10 +14,12 @@ rgb_sequence = rgb_sequence[0]
 # print(rgb_sequence)
 # print(Xyzs_R)
 
-#白点黑点三刺激值
+#Xw是R通道255的X值，Yw是G通道255的Y值，Zw是B通道255的Z值
 Xw = 78.562
 Yw = 71.689
 Zw = 107.72
+
+#黑点
 Xk = 0.12141
 Yk = 0.12823
 Zk = 0.13531
